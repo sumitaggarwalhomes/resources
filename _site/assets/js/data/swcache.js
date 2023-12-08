@@ -1,41 +1,41 @@
 const resource = [
   /* --- CSS --- */
-  '/assets/css/jekyll-theme-chirpy.css',
+  '/resources/assets/css/jekyll-theme-chirpy.css',
 
   /* --- PWA --- */
-  '/app.js',
-  '/sw.js',
+  '/resources/app.js',
+  '/resources/sw.js',
 
   /* --- HTML --- */
-  '/index.html',
-  '/404.html',
+  '/resources/index.html',
+  '/resources/404.html',
 
   
-    '/categories/',
+    '/resources/categories/',
   
-    '/tags/',
+    '/resources/tags/',
   
-    '/archives/',
+    '/resources/archives/',
   
-    '/about/',
+    '/resources/about/',
   
 
   /* --- Favicons & compressed JS --- */
   
   
-    '/assets/img/favicons/android-chrome-192x192.png',
-    '/assets/img/favicons/android-chrome-512x512.png',
-    '/assets/img/favicons/apple-touch-icon.png',
-    '/assets/img/favicons/favicon-16x16.png',
-    '/assets/img/favicons/favicon-32x32.png',
-    '/assets/img/favicons/favicon.ico',
-    '/assets/img/favicons/mstile-150x150.png',
-    '/assets/js/dist/categories.min.js',
-    '/assets/js/dist/commons.min.js',
-    '/assets/js/dist/home.min.js',
-    '/assets/js/dist/misc.min.js',
-    '/assets/js/dist/page.min.js',
-    '/assets/js/dist/post.min.js'
+    '/resources/assets/img/favicons/android-chrome-192x192.png',
+    '/resources/assets/img/favicons/android-chrome-512x512.png',
+    '/resources/assets/img/favicons/apple-touch-icon.png',
+    '/resources/assets/img/favicons/favicon-16x16.png',
+    '/resources/assets/img/favicons/favicon-32x32.png',
+    '/resources/assets/img/favicons/favicon.ico',
+    '/resources/assets/img/favicons/mstile-150x150.png',
+    '/resources/assets/js/dist/categories.min.js',
+    '/resources/assets/js/dist/commons.min.js',
+    '/resources/assets/js/dist/home.min.js',
+    '/resources/assets/js/dist/misc.min.js',
+    '/resources/assets/js/dist/page.min.js',
+    '/resources/assets/js/dist/post.min.js'
 ];
 
 /* The request url with below domain will be cached */

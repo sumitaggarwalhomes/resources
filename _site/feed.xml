@@ -1,33 +1,33 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>http://localhost:4000/resources/</id>
   <title>Sumit Aggarwal Homes</title>
   <subtitle>Buy, Sell, Lease, Invest with Sumit Aggarwal Homes. Best New Jersey Real Estate Agent.</subtitle>
-  <updated>2023-12-07T14:11:38-05:00</updated>
+  <updated>2023-12-07T19:04:50-05:00</updated>
   <author>
     <name>Sumit Aggarwal</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>http://localhost:4000/resources/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/resources/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
+    href="http://localhost:4000/resources/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <rights> © 2023 Sumit Aggarwal </rights>
-  <icon>/assets/img/favicons/favicon.ico</icon>
-  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/resources/assets/img/favicons/favicon.ico</icon>
+  <logo>/resources/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
     <title>NAR NJAR and MLS Resources</title>
-    <link href="http://localhost:4000/posts/nar-njar-mls/" rel="alternate" type="text/html" title="NAR NJAR and MLS Resources" />
+    <link href="http://localhost:4000/resources/posts/nar-njar-mls/" rel="alternate" type="text/html" title="NAR NJAR and MLS Resources" />
     <published>2023-12-07T11:00:00-05:00</published>
   
     <updated>2023-12-07T11:00:00-05:00</updated>
   
-    <id>http://localhost:4000/posts/nar-njar-mls/</id>
-    <content src="http://localhost:4000/posts/nar-njar-mls/" />
+    <id>http://localhost:4000/resources/posts/nar-njar-mls/</id>
+    <content src="http://localhost:4000/resources/posts/nar-njar-mls/" />
     <author>
       <name>Sumit Aggarwal</name>
     </author>
@@ -73,13 +73,13 @@
   
   <entry>
     <title>Wolfpack Resources</title>
-    <link href="http://localhost:4000/posts/wolfpack/" rel="alternate" type="text/html" title="Wolfpack Resources" />
+    <link href="http://localhost:4000/resources/posts/wolfpack/" rel="alternate" type="text/html" title="Wolfpack Resources" />
     <published>2023-12-06T00:45:00-05:00</published>
   
-    <updated>2023-12-07T04:32:44-05:00</updated>
+    <updated>2023-12-06T00:45:00-05:00</updated>
   
-    <id>http://localhost:4000/posts/wolfpack/</id>
-    <content src="http://localhost:4000/posts/wolfpack/" />
+    <id>http://localhost:4000/resources/posts/wolfpack/</id>
+    <content src="http://localhost:4000/resources/posts/wolfpack/" />
     <author>
       <name>Sumit Aggarwal</name>
     </author>
@@ -134,13 +134,13 @@ Ca...
   
   <entry>
     <title>T&amp;R Group Resources</title>
-    <link href="http://localhost:4000/posts/t&amp;r-group/" rel="alternate" type="text/html" title="T&amp;amp;R Group Resources" />
+    <link href="http://localhost:4000/resources/posts/t&amp;r-group/" rel="alternate" type="text/html" title="T&amp;amp;R Group Resources" />
     <published>2023-12-06T00:45:00-05:00</published>
   
-    <updated>2023-12-07T04:32:44-05:00</updated>
+    <updated>2023-12-06T00:45:00-05:00</updated>
   
-    <id>http://localhost:4000/posts/t&amp;r-group/</id>
-    <content src="http://localhost:4000/posts/t&amp;r-group/" />
+    <id>http://localhost:4000/resources/posts/t&amp;r-group/</id>
+    <content src="http://localhost:4000/resources/posts/t&amp;r-group/" />
     <author>
       <name>Sumit Aggarwal</name>
     </author>
@@ -190,13 +190,13 @@ Ca...
   
   <entry>
     <title>Sumit Aggarwal Homes</title>
-    <link href="http://localhost:4000/posts/sumit-aggarwal-homes/" rel="alternate" type="text/html" title="Sumit Aggarwal Homes" />
+    <link href="http://localhost:4000/resources/posts/sumit-aggarwal-homes/" rel="alternate" type="text/html" title="Sumit Aggarwal Homes" />
     <published>2023-12-06T00:45:00-05:00</published>
   
-    <updated>2023-12-07T13:39:08-05:00</updated>
+    <updated>2023-12-06T00:45:00-05:00</updated>
   
-    <id>http://localhost:4000/posts/sumit-aggarwal-homes/</id>
-    <content src="http://localhost:4000/posts/sumit-aggarwal-homes/" />
+    <id>http://localhost:4000/resources/posts/sumit-aggarwal-homes/</id>
+    <content src="http://localhost:4000/resources/posts/sumit-aggarwal-homes/" />
     <author>
       <name>Sumit Aggarwal</name>
     </author>
@@ -251,13 +251,13 @@ Ca...
   
   <entry>
     <title>J&amp;M Group Resources</title>
-    <link href="http://localhost:4000/posts/j&amp;m-group/" rel="alternate" type="text/html" title="J&amp;amp;M Group Resources" />
+    <link href="http://localhost:4000/resources/posts/j&amp;m-group/" rel="alternate" type="text/html" title="J&amp;amp;M Group Resources" />
     <published>2023-12-06T00:45:00-05:00</published>
   
-    <updated>2023-12-07T04:32:44-05:00</updated>
+    <updated>2023-12-06T00:45:00-05:00</updated>
   
-    <id>http://localhost:4000/posts/j&amp;m-group/</id>
-    <content src="http://localhost:4000/posts/j&amp;m-group/" />
+    <id>http://localhost:4000/resources/posts/j&amp;m-group/</id>
+    <content src="http://localhost:4000/resources/posts/j&amp;m-group/" />
     <author>
       <name>Sumit Aggarwal</name>
     </author>
