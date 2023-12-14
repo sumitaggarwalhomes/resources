@@ -4,7 +4,7 @@
   <id>http://localhost:4000/resources/</id>
   <title>Sumit Aggarwal Homes</title>
   <subtitle>Buy, Sell, Lease, Invest with Sumit Aggarwal Homes. Best New Jersey Real Estate Agent.</subtitle>
-  <updated>2023-12-08T14:07:36-05:00</updated>
+  <updated>2023-12-14T12:22:01-05:00</updated>
   <author>
     <name>Sumit Aggarwal</name>
     <uri>http://localhost:4000/resources/</uri>
@@ -56,10 +56,12 @@
   
     RPR
   
-  AI Related
+  
+    E-Books Audiobooks
     
-      ChatGPT
-      ChatGPT
+      Kindle Books
+      Mental Wellness
+      Audiobooks
     
   
 
@@ -219,13 +221,17 @@ Ca...
 
       
   
-    KvCore Website
+    CRM
+    
+      KvCore Website
+    
   
   
-    FREE Buyer’s Guide
-  
-  
-    FREE Seller’s Guide
+    Free Guides
+    
+      FREE Buyer’s Guide
+      FREE Seller’s Guide
+    
   
   
     Personal Work
@@ -233,6 +239,11 @@ Ca...
       Spreadsheet for Everything
       Canva
       Client’s Spreadsheet
+      AI Related
+        
+          ChatGPT
+        
+      
     
   
   

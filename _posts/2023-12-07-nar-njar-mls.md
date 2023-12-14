@@ -9,7 +9,10 @@ published: true
 
 * ## [RPR](https://www.narrpr.com/home){:target="_blank"}{:rel="noopener noreferrer"}
 
-* AI Related
-    * [ChatGPT](https://chat.openai.com/){:target="_blank"}{:rel="noopener noreferrer"}
-    * [ChatGPT](https://chat.openai.com/){:target="_blank"}{:rel="noopener noreferrer"}
+* ## [E-Books Audiobooks](https://realtor.overdrive.com){:target="_blank"}{:rel="noopener noreferrer"}
+    * [Kindle Books](https://realtor.overdrive.com/search?format=ebook-kindle&sortBy=newlyadded){:target="_blank"}{:rel="noopener noreferrer"}
+    * [Mental Wellness](https://realtor.overdrive.com/library/mentalwellness){:target="_blank"}{:rel="noopener noreferrer"}
+    * [Audiobooks](https://realtor.overdrive.com/collection/13476){:target="_blank"}{:rel="noopener noreferrer"}
+    
+ 
     
