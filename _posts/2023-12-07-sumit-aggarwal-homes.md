@@ -14,6 +14,13 @@ published: true
     * [FREE Buyer's Guide](https://sumitaggarwal.exprealty.com/ask/9c974f1391bfaff2859d922d854c5c56){:target="_blank"}{:rel="noopener noreferrer"}
     * [FREE Seller's Guide](https://sumitaggarwal.exprealty.com/ask/3bbad880047bbfadc2feaf6b3bdb0f8c){:target="_blank"}{:rel="noopener noreferrer"}
 
+* ## Podcasts
+    * [Apple Podcast](https://podcasts.apple.com/us/podcast/sumit-aggarwal-homes/id1727016294){:target="_blank"}{:rel="noopener noreferrer"}
+    * [Spotify Podcast](https://podcasters.spotify.com/pod/show/sumitaggarwalhomes){:target="_blank"}{:rel="noopener noreferrer"}
+    * [Amazon Music or Audible](https://a.co/d/hRVzlhh){:target="_blank"}{:rel="noopener noreferrer"}
+    * [Pandora Podcast](https://www.pandora.com/podcast/sumit-aggarwal-homes/PC:1001083881){:target="_blank"}{:rel="noopener noreferrer"}
+    
+
 * ## Social Media
     * [Calendly](https://tr.ee/h672kYXipt/){:target="_blank"}{:rel="noopener noreferrer"}
     * [Facebook](https://www.facebook.com/sumitaggarwalhomespage/){:target="_blank"}{:rel="noopener noreferrer"}
